@@ -7,7 +7,7 @@ Hello! Professionally, I specialize in structured programming. In my free time, 
 
 Hallo! Als Softwareingenieur liegt mein Fokus beruflich auf strukturierter Programmierung. In meiner Freizeit helfe ich Kollegen gerne dabei, ihren Code zu verbessern, APIs zu erstellen und ihre Backends aufzuräumen. Mein GitHub ist dabei der Ort für Spaßprojekte. 👩‍💻✨
 
-- ⚡ Fun fact: Caring is sharing, sogar in der Programmierwelt! 🚀 
+- Caring is sharing, sogar in der Programmierwelt! 🚀 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Balanceakt)  
 
