@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Balanceakt
 #### Professionally engaged in structured programming, I create variables and programs for an efficient and precise code foundation.
-![Professionally engaged in structured programming, I create variables and programs for an efficient and precise code foundation.]([https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif](https://github.com/Balanceakt/Balanceakt/edit/main/gitprofile.gif))
+![Professionally engaged in structured programming, I create variables and programs for an efficient and precise code foundation.](https://github.com/Balanceakt/Balanceakt/blob/main/gitprofile.gif)
 
 Hello! Professionally, I specialize in structured programming. In my free time, I enjoy assisting colleagues by enhancing their code, creating APIs, and tidying up their backends. My GitHub is the space for fun projects. 👩‍💻✨
 
