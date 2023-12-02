@@ -11,4 +11,4 @@ Hallo! Als Softwareingenieur liegt mein Fokus beruflich auf strukturierter Progr
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Balanceakt)  
 
-
+![](https://github.com/Balanceakt/Balanceakt/blob/main/gitdinoprofile.gif)
