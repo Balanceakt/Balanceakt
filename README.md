@@ -8,7 +8,6 @@ Hallo! Als Softwareingenieur liegt mein Fokus beruflich auf strukturierter Progr
 
 - ⚡ Fun fact: Caring is sharing, sogar in der Programmierwelt! 🚀 
 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Balanceakt)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Balanceakt)  
