@@ -1,22 +1,18 @@
-<div align="center">
-  <h1>Hi there 👋, I'm Balanceakt</h1>
-  <h2>Professionally crafting code with structured elegance!</h2>
+User
+bitte schon das alles übernehmen und deins noch einbauen:
 
-  ![Programming Animation](https://github.com/Balanceakt/Balanceakt/blob/main/programming-animation.gif)
+### Hi there 👋, my name is Balanceakt
+#### Professionally engaged in structured programming, I create variables and programs for an efficient and precise code foundation.
 
-  <p>Hello fellow code enthusiast! I'm a software engineer by day, architecting the digital realm with structured finesse. In my coding dojo, I refine algorithms, build sleek APIs, and give backends a Marie Kondo treatment. GitHub is my playground for unleashing fun projects. 👩‍💻✨</p>
+![Professionally engaged in structured programming, I create variables and programs for an efficient and precise code foundation.](https://github.com/Balanceakt/Balanceakt/blob/main/gitprofile.gif)
 
-  <blockquote>
-    <p><em>"Coding is not just my job; it's my art, my passion, my way of life."</em></p>
-  </blockquote>
+Hello! Professionally, I specialize in structured programming. In my free time, I enjoy assisting colleagues by enhancing their code, creating APIs, and tidying up their backends. My GitHub is the space for fun projects. 👩‍💻✨
 
-  <p>When it comes to code, caring is sharing - even in the vast expanse of programming galaxies! 🚀</p>
+Hallo! Als Softwareingenieur liegt mein Fokus beruflich auf strukturierter Programmierung. In meiner Freizeit helfe ich Kollegen gerne dabei, ihren Code zu verbessern, APIs zu erstellen und ihre Backends aufzuräumen. Mein GitHub ist dabei der Ort für Spaßprojekte. 👩‍💻✨
 
-  <p>Feel free to explore my projects and connect with me:</p>
+- Caring is sharing, sogar in der Programmierwelt! 🚀 
 
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Balanceakt)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Balanceakt)  
 
-  ![GitHub followers](https://img.shields.io/github/followers/Balanceakt?style=social)
+![](https://github.com/Balanceakt/Balanceakt/blob/main/gitdinoprofile.gif)
 
-  ![](https://github.com/Balanceakt/Balanceakt/blob/main/gitdinoprofile.gif)
-</div>
